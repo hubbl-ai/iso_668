@@ -1,0 +1,243 @@
+# ISO 668 group and type descriptions
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-30 10:22-0500\n"
+"PO-Revision-Date: 2016-12-30 11:05-0500\n"
+"Last-Translator: Doozee info <info@doozee.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ISO_668.GROUP.GP"
+msgstr "Unventilated general purpose container"
+
+msgid "ISO_668.GROUP.VH"
+msgstr "General purpose container with ventilation"
+
+msgid "ISO_668.GROUP.BU"
+msgstr "Dry bulk container, non-pressure-resistant"
+
+msgid "ISO_668.GROUP.SN"
+msgstr "Named cargo container"
+
+msgid "ISO_668.GROUP.RE"
+msgstr "Thermal container, refrigerated"
+
+msgid "ISO_668.GROUP.RS"
+msgstr "Thermal container, self powered refrigerated/heated"
+
+msgid "ISO_668.GROUP.RT"
+msgstr "Thermal container, refrigerated and heated"
+
+msgid "ISO_668.GROUP.HR"
+msgstr "Thermal container, refrigerated and/or heated with removable equipment"
+
+msgid "ISO_668.GROUP.HI"
+msgstr "Thermal container, insulated"
+
+msgid "ISO_668.GROUP.UT"
+msgstr "Open-top container"
+
+msgid "ISO_668.GROUP.PL"
+msgstr "Platform based container with incomplete superstructure"
+
+msgid "ISO_668.GROUP.PF"
+msgstr "Platform (container), fixed"
+
+msgid "ISO_668.GROUP.PC"
+msgstr "Platform (container), folding"
+
+msgid "ISO_668.GROUP.PS"
+msgstr "Platform based container with complete superstructure"
+
+msgid "ISO_668.GROUP.TN"
+msgstr "Tank container for non-dangerous liquids"
+
+msgid "ISO_668.GROUP.TD"
+msgstr "Tank container for dangerous liquids"
+
+msgid "ISO_668.GROUP.TG"
+msgstr "Tank container for gases"
+
+msgid "ISO_668.TYPE.G0"
+msgstr "Openings at one or both end(s)"
+
+msgid "ISO_668.TYPE.G1"
+msgstr "Vents in upper part of cargo space"
+
+msgid "ISO_668.TYPE.G2"
+msgstr "Openings at one or both end(s), plus 'full' openings at one or both sides"
+
+msgid "ISO_668.TYPE.G3"
+msgstr "Openings at one or both end(s), plus 'partial' openings at one or both sides"
+
+msgid "ISO_668.TYPE.G4"
+msgstr "General Purpose / Dry container"
+
+msgid "ISO_668.TYPE.G8"
+msgstr "General Purpose / Dry container"
+
+msgid "ISO_668.TYPE.G9"
+msgstr "General Purpose / Dry container"
+
+msgid "ISO_668.TYPE.V0"
+msgstr "Non-mechanical ventilation at the lower and upper parts of the cargo space"
+
+msgid "ISO_668.TYPE.V2"
+msgstr "Mechanical ventilation installed in the container"
+
+msgid "ISO_668.TYPE.V3"
+msgstr "Ventilated container"
+
+msgid "ISO_668.TYPE.V4"
+msgstr "Mechanical ventilation installed outside the container"
+
+msgid "ISO_668.TYPE.B0"
+msgstr "Closed"
+
+msgid "ISO_668.TYPE.B1"
+msgstr "Airtight"
+
+msgid "ISO_668.TYPE.B3"
+msgstr "Horizontal discharge, test pressure 150 kPa"
+
+msgid "ISO_668.TYPE.B4"
+msgstr "Horizontal discharge, test pressure 265 kPa"
+
+msgid "ISO_668.TYPE.B5"
+msgstr "Tipping discharge, test pressure 150 kPa"
+
+msgid "ISO_668.TYPE.B6"
+msgstr "Tipping discharge, test pressure 265 kPa"
+
+msgid "ISO_668.TYPE.S1"
+msgstr "Automobile container"
+
+msgid "ISO_668.TYPE.R0"
+msgstr "Mechanically refrigerated"
+
+msgid "ISO_668.TYPE.R2"
+msgstr "Mechanically refrigerated"
+
+msgid "ISO_668.TYPE.R3"
+msgstr "Mechanically refrigerated and heated"
+
+msgid "ISO_668.TYPE.R4"
+msgstr "Reefer container"
+
+msgid "ISO_668.TYPE.R7"
+msgstr "Reefer container"
+
+msgid "ISO_668.TYPE.R8"
+msgstr "Reefer container"
+
+msgid "ISO_668.TYPE.R9"
+msgstr "Reefer container"
+
+msgid "ISO_668.TYPE.R1"
+msgstr "Mechanically refrigerated and heated"
+
+msgid "ISO_668.TYPE.H0"
+msgstr "Refrigerated and/or heated with removable equipment located externally, coefficient of heat transfer K = 0.4 W/(m2 * K)"
+
+msgid "ISO_668.TYPE.H1"
+msgstr "Refrigerated and/or heated with removable equipment located internally"
+
+msgid "ISO_668.TYPE.H2"
+msgstr "Refrigerated and/or heated with removable equipment located externally, coefficient of heat transfer K = 0.7 W/(m2 * K)"
+
+msgid "ISO_668.TYPE.H5"
+msgstr "Insulated, coefficient of heat transfer K = 0.4 W/(m2 * K)"
+
+msgid "ISO_668.TYPE.H6"
+msgstr "Insulated, coefficient of heat transfer K = 0.7 W/(m2 * K)"
+
+msgid "ISO_668.TYPE.U0"
+msgstr "Openings at one or both end(s)"
+
+msgid "ISO_668.TYPE.U1"
+msgstr "Openings at one or both end(s) plus removable roof in end frame"
+
+msgid "ISO_668.TYPE.U2"
+msgstr "Openings at one or both end(s) plus opening(s) on one or both sides"
+
+msgid "ISO_668.TYPE.U3"
+msgstr "Openings at one or both end(s) plus opening(s) on one or both sides plus removable top members"
+
+msgid "ISO_668.TYPE.U4"
+msgstr "Openings at one or both end(s) plus opening(s) on one side plus full openings on the other side"
+
+msgid "ISO_668.TYPE.U5"
+msgstr "Full, solid side and end walls (no doors)"
+
+msgid "ISO_668.TYPE.U6"
+msgstr "Hardtop container"
+
+msgid "ISO_668.TYPE.P0"
+msgstr "Platform"
+
+msgid "ISO_668.TYPE.P1"
+msgstr "Platform with two complete, fixed end walls"
+
+msgid "ISO_668.TYPE.P2"
+msgstr "Platform with fixed posts, either free-standing or with removable top members"
+
+msgid "ISO_668.TYPE.P3"
+msgstr "Platform with folding complete end walls"
+
+msgid "ISO_668.TYPE.P4"
+msgstr "Platform with folding posts, either free-standing or with removable top members"
+
+msgid "ISO_668.TYPE.P5"
+msgstr "Platform, open at the top and ends (skeletal)"
+
+msgid "ISO_668.TYPE.P6"
+msgstr "Platform container"
+
+msgid "ISO_668.TYPE.P7"
+msgstr "Platform container"
+
+msgid "ISO_668.TYPE.P8"
+msgstr "Platform container"
+
+msgid "ISO_668.TYPE.P9"
+msgstr "Platform container"
+
+msgid "ISO_668.TYPE.T0"
+msgstr "Minimum pressure 45 kPa"
+
+msgid "ISO_668.TYPE.T1"
+msgstr "Minimum pressure 150 kPa"
+
+msgid "ISO_668.TYPE.T2"
+msgstr "Minimum pressure 265 kPa"
+
+msgid "ISO_668.TYPE.T3"
+msgstr "Minimum pressure 150 kPa"
+
+msgid "ISO_668.TYPE.T4"
+msgstr "Minimum pressure 265 kPa"
+
+msgid "ISO_668.TYPE.T5"
+msgstr "Minimum pressure 400 kPa"
+
+msgid "ISO_668.TYPE.T6"
+msgstr "Minimum pressure 600 kPa"
+
+msgid "ISO_668.TYPE.T7"
+msgstr "Minimum pressure 910 kPa"
+
+msgid "ISO_668.TYPE.T8"
+msgstr "Minimum pressure 2200 kPa"
+
+msgid "ISO_668.TYPE.T9"
+msgstr "Minimum pressure (yet to be assigned)"

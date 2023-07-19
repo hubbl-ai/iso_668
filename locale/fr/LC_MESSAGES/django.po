@@ -1,0 +1,244 @@
+# ISO 668 group and type descriptions
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-30 10:22-0500\n"
+"PO-Revision-Date: 2016-12-30 11:05-0500\n"
+"Last-Translator: Scott Deerwester <scott@doozee.net>, 2017\n"
+"Language-Team: French (https://www.transifex.com/doozee-foundation/teams/69500/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ISO_668.GROUP.GP"
+msgstr ""
+
+msgid "ISO_668.GROUP.VH"
+msgstr ""
+
+msgid "ISO_668.GROUP.BU"
+msgstr ""
+
+msgid "ISO_668.GROUP.SN"
+msgstr ""
+
+msgid "ISO_668.GROUP.RE"
+msgstr ""
+
+msgid "ISO_668.GROUP.RS"
+msgstr ""
+
+msgid "ISO_668.GROUP.RT"
+msgstr ""
+
+msgid "ISO_668.GROUP.HR"
+msgstr ""
+
+msgid "ISO_668.GROUP.HI"
+msgstr ""
+
+msgid "ISO_668.GROUP.UT"
+msgstr ""
+
+msgid "ISO_668.GROUP.PL"
+msgstr ""
+
+msgid "ISO_668.GROUP.PF"
+msgstr ""
+
+msgid "ISO_668.GROUP.PC"
+msgstr ""
+
+msgid "ISO_668.GROUP.PS"
+msgstr ""
+
+msgid "ISO_668.GROUP.TN"
+msgstr ""
+
+msgid "ISO_668.GROUP.TD"
+msgstr ""
+
+msgid "ISO_668.GROUP.TG"
+msgstr ""
+
+msgid "ISO_668.TYPE.G0"
+msgstr ""
+
+msgid "ISO_668.TYPE.G1"
+msgstr "Orifices dans la partie supérieure de l'espace de chargement"
+
+msgid "ISO_668.TYPE.G2"
+msgstr ""
+
+msgid "ISO_668.TYPE.G3"
+msgstr ""
+
+msgid "ISO_668.TYPE.G4"
+msgstr ""
+
+msgid "ISO_668.TYPE.G8"
+msgstr ""
+
+msgid "ISO_668.TYPE.G9"
+msgstr ""
+
+msgid "ISO_668.TYPE.V0"
+msgstr ""
+
+msgid "ISO_668.TYPE.V2"
+msgstr ""
+
+msgid "ISO_668.TYPE.V3"
+msgstr ""
+
+msgid "ISO_668.TYPE.V4"
+msgstr ""
+
+msgid "ISO_668.TYPE.B0"
+msgstr ""
+
+msgid "ISO_668.TYPE.B1"
+msgstr ""
+
+msgid "ISO_668.TYPE.B3"
+msgstr ""
+
+msgid "ISO_668.TYPE.B4"
+msgstr ""
+
+msgid "ISO_668.TYPE.B5"
+msgstr ""
+
+msgid "ISO_668.TYPE.B6"
+msgstr ""
+
+msgid "ISO_668.TYPE.S1"
+msgstr ""
+
+msgid "ISO_668.TYPE.R0"
+msgstr ""
+
+msgid "ISO_668.TYPE.R2"
+msgstr ""
+
+msgid "ISO_668.TYPE.R3"
+msgstr ""
+
+msgid "ISO_668.TYPE.R4"
+msgstr ""
+
+msgid "ISO_668.TYPE.R7"
+msgstr ""
+
+msgid "ISO_668.TYPE.R8"
+msgstr ""
+
+msgid "ISO_668.TYPE.R9"
+msgstr ""
+
+msgid "ISO_668.TYPE.R1"
+msgstr ""
+
+msgid "ISO_668.TYPE.H0"
+msgstr ""
+
+msgid "ISO_668.TYPE.H1"
+msgstr ""
+
+msgid "ISO_668.TYPE.H2"
+msgstr ""
+
+msgid "ISO_668.TYPE.H5"
+msgstr ""
+
+msgid "ISO_668.TYPE.H6"
+msgstr ""
+
+msgid "ISO_668.TYPE.U0"
+msgstr ""
+
+msgid "ISO_668.TYPE.U1"
+msgstr ""
+
+msgid "ISO_668.TYPE.U2"
+msgstr ""
+
+msgid "ISO_668.TYPE.U3"
+msgstr ""
+
+msgid "ISO_668.TYPE.U4"
+msgstr ""
+
+msgid "ISO_668.TYPE.U5"
+msgstr ""
+
+msgid "ISO_668.TYPE.U6"
+msgstr ""
+
+msgid "ISO_668.TYPE.P0"
+msgstr ""
+
+msgid "ISO_668.TYPE.P1"
+msgstr ""
+
+msgid "ISO_668.TYPE.P2"
+msgstr ""
+
+msgid "ISO_668.TYPE.P3"
+msgstr ""
+
+msgid "ISO_668.TYPE.P4"
+msgstr ""
+
+msgid "ISO_668.TYPE.P5"
+msgstr ""
+
+msgid "ISO_668.TYPE.P6"
+msgstr ""
+
+msgid "ISO_668.TYPE.P7"
+msgstr ""
+
+msgid "ISO_668.TYPE.P8"
+msgstr ""
+
+msgid "ISO_668.TYPE.P9"
+msgstr ""
+
+msgid "ISO_668.TYPE.T0"
+msgstr ""
+
+msgid "ISO_668.TYPE.T1"
+msgstr ""
+
+msgid "ISO_668.TYPE.T2"
+msgstr ""
+
+msgid "ISO_668.TYPE.T3"
+msgstr ""
+
+msgid "ISO_668.TYPE.T4"
+msgstr ""
+
+msgid "ISO_668.TYPE.T5"
+msgstr ""
+
+msgid "ISO_668.TYPE.T6"
+msgstr ""
+
+msgid "ISO_668.TYPE.T7"
+msgstr ""
+
+msgid "ISO_668.TYPE.T8"
+msgstr ""
+
+msgid "ISO_668.TYPE.T9"
+msgstr ""
